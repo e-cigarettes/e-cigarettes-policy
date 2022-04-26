@@ -56,6 +56,13 @@
 
 <hr/>
 
+2022-04-08 [《电子烟》国家标准](http://std.samr.gov.cn/gb/search/gbDetailed?id=DC71B640316A1BD8E05397BE0A0AC89A)
+
+存档：[《电子烟》国家标准](GB+41700-2022.pdf)
+
+<hr/>
+
+
 2022-04-15 [《电子烟管理办法》和《电子烟》国家标准等有关问题解答](http://www.tobacco.gov.cn/gjyc/dzyglzcwj/202204/c5338f13a29e4ac1bccdfae50eb7606f.shtml)
 
 
