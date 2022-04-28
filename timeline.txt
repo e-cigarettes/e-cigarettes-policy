@@ -1,0 +1,45 @@
+整理了电子烟政策文件。
+
+1.最早的政策文件出现在16年：《中国卷烟销售公司关于开展国内一线城市电子烟市场调研的通知》https://sz.tobacco.gov.cn/content/index.jsp?id=114763
+
+2.2014年烟草相关公司打算天猫卖电子烟：《颐中（青岛）实业有限公司关于撤销“2014年度天猫商城电子烟销售代运营项目”公开招标的公告》,未遂。http://www.tobacco.gov.cn/gjyc/zfcg/20140627/dab117f5a68f46b8976de8131e7d8c43.shtml
+
+3.2016年云南烟草自主组装了电子烟：《云南中烟自主组装的首支电子烟下线电子烟研发制造技术迈上新台阶》http://www.tobacco.gov.cn/gjyc/gdxw/20160704/94745e157b2b457b99d2ab1bb4224dd6.shtml
+
+4.2016年举行了美国电子烟监管新规解读交流活动，目的是支撑行业新型烟草制品整体发展。：http://www.tobacco.gov.cn/gjyc/gdxw/20160911/bba3933777574f88a2c4a46e2ff15b87.shtml
+
+5.2017湖南中烟首次出口电子烟到英国：《湖南中烟知识产权的超声电子烟首批产品出口英国》http://www.tobacco.gov.cn/gjyc/gdxw/20171217/d7c37229c1424e078a66fef3d51c0695.shtml
+
+6.2018年到2019年福建中烟通过招标等方式开发电子烟。
+
+7.2018年发布《国家市场监督管理总局 国家烟草专卖局关于禁止向未成年人出售电子烟的通告》：http://www.tobacco.gov.cn/gjyc/zcfl/202101/6ce047824f734c67b63453f1b4d16142.shtml
+
+9.2019年咨询电子烟是否线下销售？
+北京回答：电子烟烟具不是烟草制品，不属于烟草部门的监管范围。
+专卖局回答：属于烟草专卖品，销售此类产品应持有烟草专卖零售许可证。
+
+10.2019年发布《关于进一步保护未成年人免受电子烟侵害的通告》http://www.tobacco.gov.cn/gjyc/zhgl/202101/271056615ff94d729ec50d46c30cca3f.shtml
+
+11.2020年发布《国家烟草专卖局 国家市场监督管理总局关于印发电子烟市场专项检查行动方案的通知》http://www.tobacco.gov.cn/gjyc/tzgg/202012/991cc04276134f5faa7836d9ab8ab0e2.shtml
+
+12.2021年3月22日，发布《公开征求对《关于修改〈中华人民共和国烟草专卖法实施条例〉的决定（征求意见稿）》的意见》,监管新进程开启。https://www.miit.gov.cn/jgsj/zfs/gzdt/art/2021/art_e233af8bb3484ed59e98dbb79e49a0bd.html
+
+13.2021年12月2日，发布《电子烟管理办法（征求意见稿）》：http://www.tobacco.gov.cn/gjyc/tzgg/202112/f9723dbb09d34950a81a53c01a105ac4.shtml
+
+14.2021年12月2日，发布《电子烟》国家标准：地址貌似被删除了，谁有原件麻烦分享下。
+
+15.2022年3月11日，发布《电子烟》国家标准（二次征求意见稿）http://www.tobacco.gov.cn/gjyc/tzgg/202203/975fc13760184da5aadc254ece97d54c.shtml
+
+16.2022年3月11日，发布《电子烟管理办法》：http://www.tobacco.gov.cn/gjyc/tzgg/202203/ff793b5fb00e4308a28f4b8aa618e803.shtml
+
+17.2022年4月8日 ，发布《电子烟》国家标准：http://std.samr.gov.cn/gb/search/gbDetailed?id=DC71B640316A1BD8E05397BE0A0AC89A
+
+18.2022年4月15日，发布生产、批发、技术评审、产品追溯细则，以及零售布局、零售许可管理等指导意见。
+
+19.2022年4月25日，发布《关于促进电子烟产业法治化规范化的若干政策措施（试行）》：http://www.tobacco.gov.cn/gjyc/dzyglzcwj/202204/4e78e507571d448297b71c8330cbc99a.shtml
+
+20.2022年4月25日，发布电子烟产品质量监督抽查、产品鉴别检测、产品包装、产品技术审评等细则。
+
+21.2022年4月26日，发布电子烟企业上市细则，《国家烟草专卖局关于对电子烟有关企业境内外首次公开发行股票并上市进行前置审查的实施细则》：http://www.tobacco.gov.cn/gjyc/tzgg/202204/d3d434240ebd4064a800c72717c3befd.shtml
+
+详细地址：https://github.com/e-cigarettes/e-cigarettes-policy
