@@ -65,6 +65,7 @@ async function genTagPart(tagName,filename){
     await genTagMedia('访谈','img/fangtan')    
     await genTagMedia('报道','img/baodao')    
     await genTagMedia('报告','img/baogao')    
+    await genTagMedia('宣传','img/xuanchuan')    
     await genTagPart('卫健','img/weijian')    
 })()
 
