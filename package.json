@@ -1,0 +1,24 @@
+{
+  "name": "e-cigarettes-policy",
+  "version": "1.0.0",
+  "description": "参见：[电子烟政策文件](policy.md)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/e-cigarettes/e-cigarettes-policy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/e-cigarettes/e-cigarettes-policy/issues"
+  },
+  "homepage": "https://github.com/e-cigarettes/e-cigarettes-policy#readme",
+  "dependencies": {
+    "canvas": "^2.9.1",
+    "image-data-uri": "^2.0.1",
+    "text-to-image": "^5.2.0"
+  }
+}
