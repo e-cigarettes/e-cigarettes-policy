@@ -276,3 +276,10 @@
 ![](img/xize.png)
 
 存档：[电子烟物流管理细则](policy/电子烟物流管理细则.md)
+
+<hr/>
+
+2022-06-22 [电子烟行政许可和产品技术审评有关问题的解答](http://www.tobacco.gov.cn/gjyc/dzyglzcwj/202206/3c4ed851e6974682999dbe827f2d84d1.shtml)
+![](img/jieda.png)
+
+存档：[电子烟行政许可和产品技术审评有关问题的解答](policy/电子烟行政许可和产品技术审评有关问题的解答.md)
