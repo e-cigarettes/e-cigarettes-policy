@@ -259,3 +259,20 @@
 ![](img/tongzhi.png)
 
 [国家烟草专卖局办公室 国家市场监督管理总局办公厅关于规范电子烟检验检测有关工作的通知](policy/国家烟草专卖局办公室_国家市场监督管理总局办公厅关于规范电子烟检验检测有关工作的通知.md)
+
+
+<hr/>
+
+2022-06-02 [电子烟交易管理细则（试行）](http://www.tobacco.gov.cn/gjyc/dzyglzcwj/202206/267f4e0abeb04ba09b10497e6ef944ee.shtml)
+![](img/xize.png)
+
+备注：该文件2022-06-02发布后被立即撤下，但是链接还可以访问，等待上传新版本。
+
+存档：[电子烟交易管理细则（试行）](policy/电子烟交易管理细则（试行）.md)
+
+<hr/>
+
+2022-06-22 [电子烟物流管理细则](http://www.tobacco.gov.cn/gjyc/dzyglzcwj/202206/766efac2f7c54fbdb3f369de2ec6c1db.shtml)
+![](img/xize.png)
+
+存档：[电子烟物流管理细则](policy/电子烟物流管理细则.md)
