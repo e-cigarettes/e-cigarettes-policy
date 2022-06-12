@@ -274,14 +274,20 @@
 
 <hr/>
 
-2022-06-22 [电子烟物流管理细则](http://www.tobacco.gov.cn/gjyc/dzyglzcwj/202206/766efac2f7c54fbdb3f369de2ec6c1db.shtml)
+2022-06-02 [电子烟物流管理细则](http://www.tobacco.gov.cn/gjyc/dzyglzcwj/202206/766efac2f7c54fbdb3f369de2ec6c1db.shtml)
 ![](img/xize.png)
 
 存档：[电子烟物流管理细则](policy/电子烟物流管理细则.md)
 
 <hr/>
 
-2022-06-22 [电子烟行政许可和产品技术审评有关问题的解答](http://www.tobacco.gov.cn/gjyc/dzyglzcwj/202206/3c4ed851e6974682999dbe827f2d84d1.shtml)
+2022-06-02 [电子烟行政许可和产品技术审评有关问题的解答](http://www.tobacco.gov.cn/gjyc/dzyglzcwj/202206/3c4ed851e6974682999dbe827f2d84d1.shtml)
 ![](img/jieda.png)
 
 存档：[电子烟行政许可和产品技术审评有关问题的解答](policy/电子烟行政许可和产品技术审评有关问题的解答.md)
+
+<hr/>
+
+2022-06-10 [国家烟草专卖局关于电子烟检验检测机构认证有关事项的通知](http://www.tobacco.gov.cn/gjyc/dzyglzcwj/202206/f36f7d33405943b09009b26ee40d5c45.shtml)
+
+存档：[国家烟草专卖局关于电子烟检验检测机构认证有关事项的通知](policy/国家烟草专卖局关于电子烟检验检测机构认证有关事项的通知.md)
