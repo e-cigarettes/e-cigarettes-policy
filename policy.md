@@ -297,3 +297,10 @@
 2022-06-15 [全国统一电子烟交易管理平台正式上线](http://www.tobacco.gov.cn/gjyc/dzyglzcwj/202206/39456afeb19c4396be81dc8d2b7410b2.shtml)
 
 存档：[全国统一电子烟交易管理平台正式上线](policy/全国统一电子烟交易管理平台正式上线.md)
+
+<hr/>
+
+2022-07-14 [关于电子烟相关生产企业核定生产规模等问题的答复](http://www.tobacco.gov.cn/gjyc/dzyglzcwj/202207/9eef6cf2fd364579a621b59762f4dd2b.shtml)
+![](img/jieda.png)
+
+存档：[关于电子烟相关生产企业核定生产规模等问题的答复](policy/关于电子烟相关生产企业核定生产规模等问题的答复.md)
