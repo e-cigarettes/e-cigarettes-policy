@@ -304,3 +304,21 @@
 ![](img/jieda.png)
 
 存档：[关于电子烟相关生产企业核定生产规模等问题的答复](policy/关于电子烟相关生产企业核定生产规模等问题的答复.md)
+
+<hr/>
+
+2022-08-16 [电子烟相关生产企业设立、分立、合并、撤销管理细则](http://www.tobacco.gov.cn/gjyc/dzyglzcwj/202208/e77343fa17b9453d8a4daad7064d83fc.shtml)
+![](img/xize.png)
+
+
+存档：[电子烟相关生产企业设立、分立、合并、撤销管理细则](policy/电子烟相关生产企业设立、分立、合并、撤销管理细则.md)
+
+
+<hr/>
+
+2022-08-16 [电子烟相关生产企业、批发企业烟草专卖许可证管理细则](http://www.tobacco.gov.cn/gjyc/dzyglzcwj/202208/299d9ad7e9dd40e2b6ea6c4fbdef74c8.shtml)
+![](img/xize.png)
+
+
+存档：[电子烟相关生产企业、批发企业烟草专卖许可证管理细则](policy/电子烟相关生产企业、批发企业烟草专卖许可证管理细则.md)
+
