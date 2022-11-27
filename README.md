@@ -2,13 +2,14 @@
 
 [下载地址](files/电子烟政策参考手册.pdf)
 
-!()[files/1.png]
+![](files/1.png)
 
-!()[files/2.png]
+![](files/2.png)
 
-!()[files/3.png]
+![](files/3.png)
 
-!()[files/4.png]
+![](files/4.png)
+
 
 
 
